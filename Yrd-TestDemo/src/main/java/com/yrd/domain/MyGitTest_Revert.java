@@ -11,5 +11,6 @@ public class MyGitTest_Revert {
         System.out.println("Revert");
         System.out.println("Revert");
         System.out.println("Revert");
+        System.out.println("Revert");
     }
 }
