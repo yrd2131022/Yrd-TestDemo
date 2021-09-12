@@ -9,5 +9,6 @@ package com.yrd.domain;
 public class MyGitTest_Revert {
     public static void main(String[] args) {
         System.out.println("Revert");
+        System.out.println("Revert");
     }
 }
