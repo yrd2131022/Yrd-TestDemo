@@ -8,9 +8,9 @@ package com.yrd.domain;
  */
 public class git_tst {
     public static void main(String[] args) {
-        System.out.println("helwwlo");
-        System.out.println("helwwlo");
-        System.out.println("helwwlo");
+        System.out.println("helw3wlo22222222");
+        System.out.println("helw3wlo");
+        System.out.println("helw3wlo");
         System.out.println("helwwlo-main-neirong");
         System.out.println("helwwlo-update-neirong");
         System.out.println("helwwlo-add-hot-fix");
