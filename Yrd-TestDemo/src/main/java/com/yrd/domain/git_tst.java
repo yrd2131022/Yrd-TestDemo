@@ -8,6 +8,6 @@ package com.yrd.domain;
  */
 public class git_tst {
     public static void main(String[] args) {
-        System.out.println("hello");
+        System.out.println("helwwlo");
     }
 }
